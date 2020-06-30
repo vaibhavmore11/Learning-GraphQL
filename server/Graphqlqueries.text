@@ -1,0 +1,19 @@
+
+1.{
+  book(id:1){
+    name
+    genre
+    author{
+      name
+    }
+    
+  }
+}
+
+2.
+{
+  book(id:1){
+    name
+    genre
+  }
+}
